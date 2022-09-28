@@ -1,1 +1,1 @@
-# larravel-trial
+# laravel-trial
